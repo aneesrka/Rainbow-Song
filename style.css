@@ -2,10 +2,10 @@
     height: 100vh;
     width: 100%;
     background: red; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient( orange , yellow, green); 
-    background: -o-linear-gradient(orange, yellow, green); 
-    background: -moz-linear-gradient(orange, yellow, green); 
-    background: linear-gradient(orange , yellow, green); 
+    background: -webkit-linear-gradient( orange , yellow, green,blue,red); 
+    background: -o-linear-gradient(orange, yellow, green,blue,red); 
+    background: -moz-linear-gradient(orange, yellow, green,blue,red); 
+    background: linear-gradient(orange , yellow, green,blue,red); 
 }
 #mydiv {
     position: absolute;
